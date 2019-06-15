@@ -1,6 +1,6 @@
 # WP Migrations Example
 
-An example WordPress plugin which demonstrates how to use [WP Migrations](https://github.com/Adhik/wp_migrations) 
+An example WordPress plugin which demonstrates how to use [WP Migrations](https://github.com/balabali/wp_migrations) 
 in order to have more structured process during plugin's update or downgrade. It is an alternative solution for 
 WordPress `dbDelta()` function.
 
@@ -31,7 +31,7 @@ on specific migration classes, in reverse order, by using the migration rules on
 
 ## Known Issues
 
-[See here](https://github.com/Adhik/wp-migrations#known-issues)
+[See here](https://github.com/balabali/wp-migrations#known-issues)
 
 ## License
 [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
